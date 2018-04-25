@@ -26,4 +26,5 @@ What were your key considerations when deciding how to visualize the trends?
 Line chart with local and global temperature trends
 At least four observations about the similarities and/or differences in the trends
 Rubric
-A Udacity reviewer will assess your project based on the criteria in the project rubric. Use the rubric as a guide while you complete the project, then give yourself a quick self-assessment before you submit it.
+
+A Udacity reviewer will assess your project based on the criteria in the project rubric. Use the rubric as a guide while you complete the project, then give yourself a quick self-assessment before you submit it
