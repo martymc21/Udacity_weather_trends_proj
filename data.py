@@ -56,12 +56,4 @@ austin_data = np.array(austin_data1)
 austin_data
 
 
-# In[15]:
-
-pd.rolling_mean(austin_data, window=3, min_periods=3, freq=None, center=False, how=None)
-
-
-# In[ ]:
-
-
 
