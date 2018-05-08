@@ -17,4 +17,5 @@ SELECT global_data.year, global_data.global_avg_temp, city_avg_temp
 FROM global_data INNER JOIN city_data
 ON global_data.year=city_data.year
 WHERE city like 'Austin';
-### Saved as YearlyAvgTemp.csv
+
+### Saved as gcavgTemp.csv
